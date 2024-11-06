@@ -15,13 +15,19 @@ let info={
             "title":"مشروع 1",
             "dis":"انشاء سيستم لادارة معمل مستشفي",
             "link":"https://github.com/saifaden/System-Lab"
-        }
+        },
+        {
+            "title":"مشروع 2",
+            "dis":"to do list app",
+            "link":"https://github.com/saifaden/ToDoList"
+        },
     ],
     "certaficates":{
         "HTML & CSS":["assest/certifecate/html&css_mn.png","assest/certifecate/html&css_m.jpg"],
         "js":["assest/certifecate/JS_mn.png","assest/certifecate/AdvancedJS.png","assest/certifecate/AsynchronousJs.png","assest/certifecate/js_m.jpg","assest/certifecate/jsE6_m.jpg"],
         "PHP & mysql":["assest/certifecate/php&mysql.jpg"],
         "MEARN Stack":["assest/certifecate/nodeJs.jpg"],
+        "Python":["assest/certifecate/Python.png"],
     }
 }
 
