@@ -9,7 +9,7 @@ function certifecate(title,certifics){
 let info={
     "skills":["PHP","JavaScript","HTML","CSS","Python"],
     "databases":["MySQL","MongoDB"],
-    "devTools":["Git","Docker"],
+    "devTools":["Git"],
     "projects":[
         {
             "title":"مشروع 1",
