@@ -23,7 +23,7 @@ let info={
         },
     ],
     "certaficates":{
-        "HTML & CSS":["assest/certifecate/html&css_mn.png","assest/certifecate/html&css_m.jpg"],
+        "HTML & CSS":["assest/certifecate/html&css_mn.png","assest/certifecate/html&css_m.jpg","assest/certifecate/fornt_end.jpg"],
         "js":["assest/certifecate/JS_mn.png","assest/certifecate/AdvancedJS.png","assest/certifecate/AsynchronousJs.png","assest/certifecate/js_m.jpg","assest/certifecate/jsE6_m.jpg"],
         "PHP & mysql":["assest/certifecate/php&mysql.jpg"],
         "MEARN Stack":["assest/certifecate/nodeJs.jpg"],
