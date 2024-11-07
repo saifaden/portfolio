@@ -1,7 +1,7 @@
 function certifecate(title,certifics){
     let c1= `<article><div><h3>${title}</h3>`
     certifics.forEach(cer=>{
-        c1+=`<img src="${cer}" alt="${title}" width="800px">`
+        c1+=`<img src="${cer}" alt="${title}" ">`
     });
     let c2=`</div></article>`
     return c1+c2;
