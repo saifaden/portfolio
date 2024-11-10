@@ -12,12 +12,12 @@ let info={
     "devTools":["Git"],
     "projects":[
         {
-            "title":"مشروع 1",
-            "dis":"انشاء سيستم لادارة معمل مستشفي",
+            "title":"Project 1",
+            "dis":"Create a system to manage a hospital laboratory",
             "link":"https://github.com/saifaden/System-Lab"
         },
         {
-            "title":"مشروع 2",
+            "title":"Project 2",
             "dis":"to do list app",
             "link":"https://github.com/saifaden/ToDoList"
         },

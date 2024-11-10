@@ -9,7 +9,6 @@ body {
     width: 80%;
     margin: auto;
     overflow: hidden;
-    direction: rtl;
 }
 header {
     background: #333;
@@ -64,7 +63,7 @@ header li {
     margin-bottom: 2px;
 }
 img{
-    translate: -30%;
+    translate: 30%;
     width: 800px;
 }
 
@@ -72,6 +71,6 @@ img{
 @media only screen and (max-width: 600px){
     img{
         width: 200px;
-        translate: -15%;
+        translate: 15%;
     }
 }
