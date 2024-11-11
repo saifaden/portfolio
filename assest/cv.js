@@ -7,7 +7,7 @@ function certifecate(title,certifics){
     return c1+c2;
 }
 let info={
-    "skills":["PHP","JavaScript","HTML","Python"],
+    "skills":["PHP","JavaScript","Python"],
     "databases":["MySQL","MongoDB"],
     "devTools":["Git"],
     "projects":[
